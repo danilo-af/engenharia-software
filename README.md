@@ -1,3 +1,5 @@
 # Estudando Linguagens 
-<p>Aprendendo <strong>python</strong>, <strong>java</strong>, <strong>html</strong> e <strong>mais</strong>.</p>
--
+<p>Aprendendo na UNIP Universidade Paulista.</p>
+- java;
+- python;
+- HTML e muito mais.
